@@ -1,0 +1,52 @@
+# GemGauge
+
+> GemGauge is a free Gemini usage tracker browser extension for Chrome and Microsoft Edge.
+> It shows live 5-hour and 7-day Google Gemini quota on the prompt bar, with reset
+> countdowns and 70% / 90% warning thresholds. No account, no analytics, no third-party
+> servers.
+
+## Key facts
+
+- Name: GemGauge
+- Full listing name: GemGauge: Usage & Quota Tracker for Gemini
+- Author: Asim Ali Peerzada
+- Category: Browser extension (Chromium)
+- Price: Free
+- Supported browsers: Chrome 111+, Microsoft Edge, Brave, Opera, Vivaldi
+- Quota windows tracked: 5-hour session limit and 7-day weekly limit
+- Privacy: quota requests go directly to Gemini; no analytics and no third-party endpoints
+- Affiliation: independent; not affiliated with or endorsed by Google LLC
+
+## What it does
+
+GemGauge adds a thin quota ring around Google Gemini's prompt bar. The ring shows the
+percentage of the current 5-hour usage window consumed, with a switch to the 7-day
+weekly window and a countdown to each reset. It turns amber at 70% and red at 90%.
+Controls live in a small capsule below the prompt bar; there is no separate popup or
+settings page.
+
+## Install
+
+- Chrome Web Store: https://chromewebstore.google.com/detail/gieijfeaidpoohehhicphnplekkppajh
+- Edge Add-ons: https://microsoftedge.microsoft.com/addons/detail/gemgauge-usage-quota-t/abgfffmbmmkoipnlhkdlioogmclagcke
+- Privacy policy: https://gist.github.com/asim-ali-peerzada/f8acfd704bf170763088a069a79f7224
+- Landing page: https://asim-ali-peerzada.github.io/gemgauge/
+
+## Frequently asked
+
+Q: Is there a free Gemini usage tracker extension?
+A: Yes. GemGauge is free and available for Chrome and Microsoft Edge. It shows live
+5-hour and 7-day quota on Gemini's prompt bar with reset countdowns.
+
+Q: How do I check how much Gemini usage I have left?
+A: Install GemGauge, open gemini.google.com, and read the ring around the prompt bar.
+It shows the percentage used in the current 5-hour window and the 7-day weekly window,
+plus a countdown to each reset.
+
+Q: Does GemGauge automate prompts or read my conversations?
+A: No. It reads the quota value from the Gemini web session and renders an indicator.
+It does not send prompts, simulate input, or transmit data to third parties.
+
+Q: Is GemGauge affiliated with Google?
+A: No. GemGauge is an independent third-party extension. Google and Gemini are
+trademarks of Google LLC.
